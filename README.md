@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ajay
+# Ajay C
 
 **Full-Stack Engineer | Cloud Architect | AI Systems Developer**
 
